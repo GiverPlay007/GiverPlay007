@@ -7,7 +7,7 @@
 
 - :coffee: I love Java
 - :video_game: I love developing games
-- :bookmark: I'm current learning **C** and **C++**
+- :bookmark: I'm currently learning **C** and **C++**
 - :speech_balloon: Ask me about **Java**
 - :pick: I play Minecraft :stuck_out_tongue_winking_eye:
 
