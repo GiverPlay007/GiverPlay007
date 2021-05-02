@@ -10,13 +10,16 @@
 - :speech_balloon: Ask me about **Java** :coffee:
 - :pick: I play Minecraft :stuck_out_tongue_winking_eye:
 
+---
+<h2 align="center">Github stats :bar_chart:</h1>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GiverPlay007&theme=tokyonight&count_private=true&show_icons=true">
-<p/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?langs_count=6&hide=yacc,css,html,handlebars&username=GiverPlay007&theme=tokyonight&count_private=true&layout=compact">
-<p/>
+</p>
 
 <p align="center">
   <a href="https://instagram.com/willyson.vilela" target="blank">
