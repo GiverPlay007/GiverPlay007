@@ -10,18 +10,12 @@
 - :speech_balloon: Ask me about **Java** :coffee:
 - :pick: I play Minecraft :stuck_out_tongue_winking_eye:
 
-## 🛠 Languages and Tools
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://static.spigotmc.org/img/spigot.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GiverPlay007&theme=tokyonight&count_private=true&show_icons=true">
+<p/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?langs_count=6&hide=yacc,css,html,handlebars&username=GiverPlay007&theme=tokyonight&count_private=true&layout=compact">
 <p/>
 
 <p align="center">
