@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?langs_count=6&hide=yacc,css,html,handlebars&username=GiverPlay007&theme=tokyonight&count_private=true&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?langs_count=6&hide=yacc,css,scss,html,handlebars&username=GiverPlay007&theme=tokyonight&count_private=true&layout=compact">
 </p>
 
 <p align="center">
