@@ -14,11 +14,11 @@
 <h2 align="center">Github stats :bar_chart:</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiverPlay007&theme=tokyonight&count_private=true&show_icons=true">
+  <img src="https://www.giverplay.me/api/stats?theme=tokyonight&count_private=true&show_icons=true">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?langs_count=6&hide=yacc,css,scss,html,handlebars&username=GiverPlay007&theme=tokyonight&count_private=true&layout=compact">
+  <img src="https://www.giverplay.me/api/stats/top-langs?hide=yacc,html,css,handlebars,scss&layout=compact&langs_count=8&theme=tokyonight">
 </p>
 
 <p align="center">
