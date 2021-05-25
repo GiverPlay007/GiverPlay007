@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.giverplay.me/api/stats/top-langs?hide=yacc,html,css,handlebars,scss&layout=compact&langs_count=8&theme=tokyonight">
+  <img src="https://www.giverplay.me/api/stats/top-langs?hide=yacc,html,css,handlebars,scss&compact_layout=true&langs_count=8&theme=tokyonight">
 </p>
 
 <p align="center">
