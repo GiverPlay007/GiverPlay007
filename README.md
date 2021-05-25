@@ -14,7 +14,7 @@
 <h2 align="center">Github stats :bar_chart:</h1>
 
 <p align="center">
-  <img src="https://www.giverplay.me/api/stats?theme=tokyonight&count_private=true&show_icons=true">
+  <img src="https://www.giverplay.me/api/stats?theme=tokyonight">
 </p>
 
 <p align="center">
