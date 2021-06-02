@@ -5,9 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=Giverplay007">
 </p>
 
-- :video_game: I love developing games
-- :bookmark: I'm currently learning **Flutter**
+- :video_game: I love developing games :joystick:
+- :bookmark: I'm currently learning **LWJGL** :video_game:
 - :speech_balloon: Ask me about **Java** :coffee:
+- :gear: I like low-level languages :wrench:
 - :pick: I play Minecraft :stuck_out_tongue_winking_eye:
 
 ---
