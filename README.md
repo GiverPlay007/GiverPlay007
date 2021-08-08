@@ -7,7 +7,7 @@
 
 <ul>
   <li> :video_game: I love developing games :joystick: </li>
-  <li> :bookmark: I'm currently learning **LWJGL** :video_game: </li>
+  <li> :bookmark: I'm currently learning <strong>LWJGL</strong> :video_game: </li>
   <li> :gear: I like low-level languages :wrench: </li>
   <li> :pick: I play Minecraft :stuck_out_tongue_winking_eye: </li>
 </ul>
