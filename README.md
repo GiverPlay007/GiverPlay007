@@ -1,33 +1,13 @@
-<h1 align="center"> Hi :wave:, I'm Will!</h1>
-<h3 align="center"> A programming enthusiast </h3>
+<h2> Hi :wave:, I'm Will! </h2>
+<strong>Computing lover.</strong>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Giverplay007">
-</p>
+<img align="right" src="https://www.giverplay.me/api/stats/top-langs?hide=yacc,html,css,handlebars,scss&compact_layout=true&langs_count=8&theme=tokyonight">
 
-- :video_game: I love developing games :joystick:
-- :bookmark: I'm currently learning **LWJGL** :video_game:
-- :speech_balloon: Ask me about **Java** :coffee:
-- :gear: I like low-level languages :wrench:
-- :pick: I play Minecraft :stuck_out_tongue_winking_eye:
+<h3><img src="https://cdn.discordapp.com/emojis/865689377111801897.png?v=1" width=24 height=24> About me</h3>
 
----
-<h2 align="center">Github stats :bar_chart:</h1>
-
-<p align="center">
-  <img src="https://www.giverplay.me/api/stats?theme=tokyonight">
-</p>
-
-<p align="center">
-  <img src="https://www.giverplay.me/api/stats/top-langs?hide=yacc,html,css,handlebars,scss&compact_layout=true&langs_count=8&theme=tokyonight">
-</p>
-
-<p align="center">
-  <a href="https://instagram.com/willyson.vilela" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="20" width="20" />
-  </a>
-  
-  <a href="https://discord.gg/NCTC44KmV2" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" height="20" width="20" />
-  </a>
-</p>
+<ul>
+  <li> :video_game: I love developing games :joystick: </li>
+  <li> :bookmark: I'm currently learning **LWJGL** :video_game: </li>
+  <li> :gear: I like low-level languages :wrench: </li>
+  <li> :pick: I play Minecraft :stuck_out_tongue_winking_eye: </li>
+</ul>
