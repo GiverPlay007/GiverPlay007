@@ -1,7 +1,7 @@
 <h2> Hi :wave:, I'm Will! </h2>
 <strong>Computing lover.</strong>
 
-<img align="right" src="https://stats.giverplay.me/api/top-langs?hide=yacc,html,css,handlebars,scss&compact&langs_count=8&theme=tokyonight">
+<img align="right" src="https://stats.giverplay.me/api/top-langs?hide=yacc,html,css,handlebars,scss,makefile&compact&langs_count=8&theme=tokyonight">
 
 <h3><img src="https://cdn.discordapp.com/emojis/865689377111801897.png?v=1" width=24 height=24> About me</h3>
 
