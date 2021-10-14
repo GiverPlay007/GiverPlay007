@@ -1,6 +1,5 @@
 <h3> Olá, sou Will! </h3>
 <strong>Um carinha apaixonado por computação.</strong>
-Você pode entrar em contato comigo através de meu Discord: [GiverPlay#9342](https://discord.com/users/387674761746186260).
 
 <img align="right" src="https://stats.giverplay.me/api/top-langs?hide=yacc,html,css,handlebars,scss,makefile&compact&langs_count=10&theme=tokyonight&custom_title=Linguagens mais utilizadas">
 
@@ -15,3 +14,5 @@ Você pode entrar em contato comigo através de meu Discord: [GiverPlay#9342](ht
   <li> :pick: Meu jogo favorito é Minecraft</li>
   <li> :notes: Funciono a base de música :stuck_out_tongue_winking_eye:</li>
 </ul>
+
+Você pode entrar em contato comigo através de meu Discord: <a href="https://discord.com/users/387674761746186260">GiverPlay#9342</a>.
