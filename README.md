@@ -1,13 +1,17 @@
-<h2> Hi :wave:, I'm Will! </h2>
-<strong>Computing lover.</strong>
+<h3> Olá, sou Will! </h3>
+<strong>Um carinha apaixonado por computação.</strong>
+Você pode entrar em contato comigo através de meu Discord: [GiverPlay#9342](https://discord.com/users/387674761746186260).
 
-<img align="right" src="https://stats.giverplay.me/api/top-langs?hide=yacc,html,css,handlebars,scss,makefile&compact&langs_count=10&theme=tokyonight">
+<img align="right" src="https://stats.giverplay.me/api/top-langs?hide=yacc,html,css,handlebars,scss,makefile&compact&langs_count=10&theme=tokyonight&custom_title=Linguagens mais utilizadas">
 
-<h3><img src="https://cdn.discordapp.com/emojis/865689377111801897.png?v=1" width=24 height=24> About me</h3>
+<h3><img src="https://cdn.discordapp.com/emojis/865689377111801897.png?v=1" width=24 height=24> Sobre mim</h3>
 
 <ul>
-  <li> :video_game: I love developing games :joystick: </li>
-  <li> :bookmark: I'm currently learning <strong>LWJGL</strong> :video_game: </li>
-  <li> :gear: I like low-level languages :wrench: </li>
-  <li> :pick: I play Minecraft :stuck_out_tongue_winking_eye: </li>
+  <li> :video_game: Gamedev </li>
+  <li> :coffee: Minha principal linguagem de programação é Java, se tiver dúvidas, talvez eu possa te ajudar</li>
+  <li> :gear: Gosto de linguagens de baixo nível</li>
+  <li> :robot: Curto eletrônica</li>
+  <li> :bulb: Estudando arquitetura AVR</li>
+  <li> :pick: Meu jogo favorito é Minecraft</li>
+  <li> :notes: Funciono a base de música :stuck_out_tongue_winking_eye:</li>
 </ul>
