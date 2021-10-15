@@ -1,4 +1,4 @@
-<h3> Olá, sou Will! </h3>
+<h3> :wave: Olá, sou Will! </h3>
 <strong>Um carinha apaixonado por computação.</strong>
 
 <img align="right" src="https://stats.giverplay.me/api/top-langs?hide=yacc,html,css,handlebars,scss,makefile&compact&langs_count=10&theme=tokyonight&custom_title=Linguagens mais utilizadas">
