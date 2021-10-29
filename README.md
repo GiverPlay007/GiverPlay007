@@ -10,7 +10,6 @@
   <li> :coffee: Minha principal linguagem de programação é Java, se tiver dúvidas, talvez eu possa te ajudar</li>
   <li> :gear: Gosto de linguagens de baixo nível</li>
   <li> :robot: Curto eletrônica</li>
-  <li> :bulb: Estudando arquitetura AVR</li>
   <li> :pick: Meu jogo favorito é Minecraft</li>
   <li> :notes: Funciono a base de música :stuck_out_tongue_winking_eye:</li>
 </ul>
