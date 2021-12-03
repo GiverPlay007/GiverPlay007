@@ -1,5 +1,5 @@
 <h3> :wave: Olá, sou Will! </h3>
-<strong>Um carinha apaixonado por computação.</strong>
+<strong>Um carinha apaixonado por computação e rock.</strong>
 
 <img align="right" src="https://stats.giverplay.me/api/top-langs?hide=yacc,html,css,handlebars,scss,makefile&compact&langs_count=10&theme=tokyonight&custom_title=Linguagens mais utilizadas">
 
@@ -11,6 +11,7 @@
   <li> :gear: Gosto de linguagens de baixo nível</li>
   <li> :robot: Curto eletrônica</li>
   <li> :pick: Meu jogo favorito é Minecraft</li>
+  <li> :musical_note: Linkin Park é minha banda favorita
   <li> :notes: Funciono a base de música :stuck_out_tongue_winking_eye:</li>
 </ul>
 
