@@ -1,7 +1,7 @@
 <h3> :wave: Olá, sou Will! </h3>
 <strong>Um carinha apaixonado por computação e rock.</strong>
 
-<img align="right" src="https://stats.giverplay.me/api/top-langs?hide=html,css,handlebars,scss,makefile&compact&langs_count=10&theme=tokyonight">
+<img align="right" src="https://stats.giverplay.me/api/top-langs?hide=html,css,handlebars,scss,makefile&compact&langs_count=8&theme=tokyonight">
 
 <h3><img src="https://cdn.discordapp.com/emojis/865689377111801897.png?v=1" width=24 height=24> Sobre mim</h3>
 
