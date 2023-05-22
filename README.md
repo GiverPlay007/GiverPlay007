@@ -16,6 +16,6 @@
   <li> :notes: Funciono a base de música :stuck_out_tongue_winking_eye:</li>
 </ul>
 
-Você pode entrar em contato comigo através de meu Discord: <a href="https://discord.com/users/387674761746186260">GiverPlay#9342</a>.
+Você pode entrar em contato comigo através de meu Discord: <a href="https://discord.com/users/387674761746186260">Imperador#0001</a>.
 <br>
 Meus projetos arquivados: <a href="https://github.com/GiverArchive">GiverArchive</a>
