@@ -8,7 +8,7 @@
 <ul>
   <li> :video_game: Gamedev </li>
   <li> :coffee: Minha principal linguagem de programação é Java, se tiver dúvidas, talvez eu possa te ajudar</li>
-  <li> :mortar_board: Cursando Análise e Desenvolvimento de Sistemas
+  <li> :mortar_board: Formado em Análise e Desenvolvimento de Sistemas
   <li> :gear: Gosto de linguagens de baixo nível</li>
   <li> :robot: Curto eletrônica</li>
   <li> :pick: Meu jogo favorito é Minecraft</li>
